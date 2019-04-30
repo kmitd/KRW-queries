@@ -1,0 +1,1 @@
+https://api.krr.triply.cc/datasets/vutd88/CooperationDatabank/services/CooperationDatabank/sparql
