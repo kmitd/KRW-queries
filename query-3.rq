@@ -5,6 +5,6 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX cdo: <http://data.vu.nl/coda/ontology/class#>
 
 SELECT DISTINCT ?v WHERE {
-  ?iv rdfs:subClassOf ?_var_iri.
+  ?iv rdfs:subClassOf ?_var.
   ?iv a cdo:Variable .
 } 
